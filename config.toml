@@ -1,5 +1,112 @@
-baseURL = "http://example.org/"
+baseURL = "https://sleepy-wilson-e5c9f4.netlify.com/"
 languageCode = "en-us"
 title = "Geordie Test Atelier"
-SectionPagesMenu = "main"
-theme = "ananke"
+theme = "meghna"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Atelier"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Crew"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Posts"
+    URL = "blog"
+    weight = 7
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/computer.jpg"
+    heading = "Geordie Test Atelier"
+    content= "Newcastle's first and last and only, diverse, accessible, DIY, post-punk, apocalyptic, eco-friendly, inclusive, non-profit Software Testing conference"
+    btn = true
+    btnText="I NEED A Ticket"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "We are Seeking Sponsors"
+    content = "Would you like to help us make the magic happen?"
+    btnURL = "#"
+    btnText = "Sponsor Us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Accessible Venue"
+        icon = "tf-ion-key"
+        count = "1"
+
+        [[params.counter.counterItem]]
+        title = "Tickets Available"
+        icon = "tf-ion-card"
+        count = "80"
+
+        [[params.counter.counterItem]]
+        title = "Amazing Speakers"
+        icon = "tf-ion-happy"
+        count = "12"
+
+        [[params.counter.counterItem]]
+        title = "Bugs Squished"
+        icon = "tf-ion-bug"
+        count = "2,147,483,649"
+
+    # footer
+    [params.footer]
+        copyright = "Your Geordie Atelier Crew"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"

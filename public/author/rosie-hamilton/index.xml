@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosie Hamilton on Geordie Test Atelier</title>
+    <link>https://sleepy-wilson-e5c9f4.netlify.com/author/rosie-hamilton/</link>
+    <description>Recent content in Rosie Hamilton on Geordie Test Atelier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2019 12:12:51 +0100</lastBuildDate>
+    
+	<atom:link href="https://sleepy-wilson-e5c9f4.netlify.com/author/rosie-hamilton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Something happened</title>
+      <link>https://sleepy-wilson-e5c9f4.netlify.com/blog/test/</link>
+      <pubDate>Wed, 24 Jul 2019 12:12:51 +0100</pubDate>
+      
+      <guid>https://sleepy-wilson-e5c9f4.netlify.com/blog/test/</guid>
+      <description>Here is the latest news about whats happened</description>
+    </item>
+    
+  </channel>
+</rss>

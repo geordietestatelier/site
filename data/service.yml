@@ -1,0 +1,27 @@
+enable : true
+heading : Your
+headingSpan : Atelier
+serviceItem :
+  - icon : tf-globe
+    title : Venue
+    content: Details of venue to go here
+
+  - icon : tf-ion-card
+    title : Tickets
+    content : Details of how to get tickets go here
+
+  - icon : tf-ion-beer
+    title : Refreshments
+    content : Details of refreshments to go here
+    
+  - icon : tf-ion-pizza
+    title : Food
+    content : Details of food to go here
+    
+  - icon : tf-ion-lightbulb
+    title : Submit A Talk
+    content : Details of how to submit a talk go here
+    
+  - icon : tf-laptop
+    title : Code of Conduct
+    content : Rules on not being a dick go here

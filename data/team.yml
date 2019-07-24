@@ -1,0 +1,63 @@
+enable : true
+heading : Your
+headingSpan : Geordie Atelier Crew
+teamMember :
+  - image : images/crew/person.png
+    name : Stephen Mounsey
+    designation : Lead Agile Delivery Manager @ BPDTS LTD
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      
+  - image : images/crew/person.png
+    name : Rosie Hamilton
+    designation : Software Developer @ Thingco
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      
+  - image : images/crew/person.png
+    name : Michael Allison
+    designation : Senior Test Engineer @ Sage
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      
+  - image : images/crew/person.png
+    name : Russell Craxford
+    designation : Quality Release Manager @ Sage
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+
+  - image : images/crew/person.png
+    name : Hannah Pretswell
+    designation : Senior Test Engineer @ Scott Logic
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+
+  - image : images/crew/person.png
+    name : Cian McCormack
+    designation : Senior Test Engineer @ Scott Logic
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"

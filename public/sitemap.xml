@@ -3,21 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/author/</loc>
+    <lastmod>2019-07-24T12:12:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/blog/</loc>
+    <lastmod>2019-07-24T12:12:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/</loc>
+    <lastmod>2019-07-24T12:12:51+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/author/rosie-hamilton/</loc>
+    <lastmod>2019-07-24T12:12:51+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/blog/test/</loc>
+    <lastmod>2019-07-24T12:12:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepy-wilson-e5c9f4.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
