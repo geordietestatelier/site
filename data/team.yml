@@ -15,8 +15,7 @@ teamMember :
   - image : images/crew/Rosie.png
     name : Rosie Hamilton
     designation : Software Developer @ Thingco
-    description : Software Developer 
-@thingco_, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer and Curious Learner.
+    description : Software Developer @thingco_, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer and Curious Learner.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
