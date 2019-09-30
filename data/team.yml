@@ -25,7 +25,7 @@ teamMember :
   - image : images/crew/Mike.png
     name : Michael Allison
     designation : Senior Test Engineer @ Sage
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : all round cool dude.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"

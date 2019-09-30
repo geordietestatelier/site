@@ -1,8 +1,8 @@
 enable : true
 image : images/backgrounds/bg-2.jpg
 title : Alreet Newcastle
-description : We had this crazy idea to start a new Software Testing conference right here in Newcastle
-description2 : Our crew have been involved with running meetups for a while. We have brought you Newcastle Ministry of Testing Meetup for over a year. We have also helped out at our sister conference Leeds Testing Atelier. This is not our first rodeo.
+description : We have this crazy idea- a new Software Testing conference right here in Geordie Central!
+description2 : Our crew have been involved with running meetups for a while. We have brought the Newcastle Ministry of Testing Meetup to you all for over a year. We have also helped out at our sister conference Leeds Testing Atelier. This is not our first rodeo.
 aboutItem : 
   - icon : tf-ion-heart
     title : We love learning
@@ -10,4 +10,4 @@ aboutItem :
     
   - icon : tf-hotairballoon
     title : We lift people up
-    content : We know working within software development is hard. When we work together and collaborate we can do so much more. 
+    content : We know working within software development is hard. Whoever you are, we want to help. When we work together and collaborate we can do so much more. 

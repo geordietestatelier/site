@@ -4,24 +4,24 @@ headingSpan : Atelier
 serviceItem :
   - icon : tf-globe
     title : Venue
-    content: Details of venue to go here
+    content: We'll be hosting our inaugural Atelier live from The Globe!.. No, not that globe. Newcastle's very own- a fully accessible, fully inclusive venue with real style and character!
 
   - icon : tf-ion-card
     title : Tickets
-    content : Details of how to get tickets go here
+    content : First Come, First Served- with a slight catch. We want everyone to be able to join us on the day, from all areas of the industry. to support that, we may limit the number of people-per-company that attend. Just think, if you're unsuccessful you'll be able to force your colleagues to give an embarassing awkward feedback "what i learnt at the 'Telier" talk ;) 
 
   - icon : tf-ion-beer
     title : Refreshments
-    content : Details of refreshments to go here
+    content : Beverages alcoholic-or-otherwise will be available from the handy dandy bar right next to your seats!
     
   - icon : tf-ion-pizza
     title : Food
-    content : Details of food to go here
+    content : Plans are underway, but nothing concrete to confirm yet. watch this space.
     
   - icon : tf-ion-lightbulb
     title : Submit A Talk
-    content : Details of how to submit a talk go here
+    content : Click this button, fill in your details & abstract and hit send to have your talk considered by our team of super-professional Atelielves!
     
   - icon : tf-laptop
     title : Code of Conduct
-    content : Rules on not being a dick go here
+    content : (1) Don't be a dick. (2) no seriously
