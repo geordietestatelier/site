@@ -5,7 +5,7 @@ teamMember :
   - image : images/crew/Steve.png
     name : Stephen Mounsey
     designation : Lead Agile Delivery Manager @ BPDTS LTD
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Agile coach & Trainer, Tester, Scrum Master, Graphical Facilitator, Coach, Father, Husband, Sketchnoter
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
@@ -15,7 +15,8 @@ teamMember :
   - image : images/crew/Rosie.png
     name : Rosie Hamilton
     designation : Software Developer @ Thingco
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Software Developer 
+@thingco_, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer and Curious Learner.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
@@ -35,7 +36,7 @@ teamMember :
   - image : images/crew/Russell.png
     name : Russell Craxford
     designation : Quality Release Manager @ Sage
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Test professional who loves software testing, photography and AC Cobra's
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
@@ -45,7 +46,7 @@ teamMember :
   - image : images/crew/Hannah.png
     name : Hannah Pretswell
     designation : Senior Test Engineer @ Scott Logic
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Bug hunter by day, doodling tea-fanatic by night.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
@@ -55,7 +56,7 @@ teamMember :
   - image : images/crew/Cian.png
     name : Cian McCormack
     designation : Senior Test Engineer @ Scott Logic
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Software Tester, Scrum Master, Rookie Speaker, Ex-Chef, Spice Enthusiast, Collector of Rubber Ducks, Banana Loather.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
