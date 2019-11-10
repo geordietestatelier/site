@@ -12,7 +12,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About"
+    name = "Sponsorship"
     URL = "about"
     weight = 2
 
@@ -25,11 +25,6 @@ summaryLength = 10
     name = "Crew"
     URL = "our-team"
     weight = 5
-
-    [[menu.nav]]
-    name = "Posts"
-    URL = "blog"
-    weight = 7
 
 # Site params
 [params]
@@ -51,7 +46,7 @@ logo = "images/logo.png"
     enable = true
     title = "We are Seeking Sponsors"
     content = "Would you like to help us make the magic happen?"
-    btnURL = "#"
+    btnURL = "https://getform.io/f/e97a8ca9-3a82-45f2-9b40-35e76537d4e1"
     btnText = "Sponsor Us"
 
     # counter
@@ -77,36 +72,3 @@ logo = "images/logo.png"
         title = "Bugs Squished"
         icon = "tf-ion-bug"
         count = "2,147,483,649"
-
-    # footer
-    [params.footer]
-        copyright = "Your Geordie Atelier Crew"
-
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"

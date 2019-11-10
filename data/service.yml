@@ -8,11 +8,11 @@ serviceItem :
 
   - icon : tf-ion-card
     title : Tickets
-    content : First Come, First Served- with a slight catch. We want everyone to be able to join us on the day, from all areas of the industry. to support that, we may limit the number of people-per-company that attend. Just think, if you're unsuccessful you'll be able to force your colleagues to give an embarassing awkward feedback "what i learnt at the 'Telier" talk ;) 
+    content : email geordietestatelier@gmail.com with "ticket" in the subject. First Come, First Served! We want everyone to be able to join us on the day, from all areas of the industry. Just think, if you're unsuccessful you'll be able to force your colleagues to give an embarrassing awkward feedback "what i learnt at the 'Telier" talk ;)
 
   - icon : tf-ion-beer
     title : Refreshments
-    content : Beverages alcoholic-or-otherwise will be available from the handy dandy bar right next to your seats!
+    content : Beverages (alcoholic-or-otherwise) will be available from the handy dandy bar right next to your seats!
     
   - icon : tf-ion-pizza
     title : Food
@@ -20,7 +20,7 @@ serviceItem :
     
   - icon : tf-ion-lightbulb
     title : Submit A Talk
-    content : Click this button, fill in your details & abstract and hit send to have your talk considered by our team of super-professional Atelielves!
+    content : Simply send your abstract to geordietestatelier@gmail.com with "abstract" in the subject to have your talk considered by our team of super-professional Atelielves!
     
   - icon : tf-laptop
     title : Code of Conduct
