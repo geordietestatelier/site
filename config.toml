@@ -46,7 +46,7 @@ logo = "images/logo.png"
     enable = true
     title = "We are Seeking Sponsors"
     content = "Would you like to help us make the magic happen?"
-    btnURL = "https://getform.io/f/e97a8ca9-3a82-45f2-9b40-35e76537d4e1"
+    btnURL = "services"
     btnText = "Sponsor Us"
 
     # counter
