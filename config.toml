@@ -46,7 +46,7 @@ logo = "images/logo.png"
     enable = true
     title = "We are Seeking Sponsors"
     content = "Would you like to help us make the magic happen?"
-    btnURL = "services"
+    btnURL = "#services"
     btnText = "Sponsor Us"
 
     # counter
