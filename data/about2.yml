@@ -1,7 +1,7 @@
 enable : true
 image : images/backgrounds/bg-2.jpg
 title : Alreet Newcastle
-description : We have this crazy idea- a new Software Testing conference right here in Geordie Central!
+description : Here's a crazy idea- a new Software Testing conference right here in Geordie Central!
 description2 : Our crew have been involved with running meetups for a while. We have brought the Newcastle Ministry of Testing Meetup to you all for over a year. We have also helped out at our sister conference Leeds Testing Atelier. This is not our first rodeo.
 aboutItem : 
   - icon : tf-ion-heart
