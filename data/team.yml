@@ -8,7 +8,7 @@ teamMember :
     description : Agile coach & Trainer, Tester, Scrum Master, Graphical Facilitator, Coach, Father, Husband, Sketchnoter
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/stephenmounsey"
       - icon : tf-ion-social-linkedin
         url : "#"
       
@@ -18,7 +18,7 @@ teamMember :
     description : Software Developer @thingco_, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer and Curious Learner.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/Rosicadia"
       - icon : tf-ion-social-linkedin
         url : "#"
       
@@ -28,7 +28,7 @@ teamMember :
     description : all round cool dude.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/QA_Michael_A"
       - icon : tf-ion-social-linkedin
         url : "#"
       
@@ -38,7 +38,7 @@ teamMember :
     description : Test professional who loves software testing, photography and AC Cobra's
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/r_crax"
       - icon : tf-ion-social-linkedin
         url : "#"
 
@@ -48,7 +48,7 @@ teamMember :
     description : Bug hunter by day, doodling tea-fanatic by night.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/HannahPretswell"
       - icon : tf-ion-social-linkedin
         url : "#"
 
@@ -58,6 +58,6 @@ teamMember :
     description : Software Tester, Scrum Master, Rookie Speaker, Ex-Chef, Spice Enthusiast, Collector of Rubber Ducks, Banana Loather.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/aCyanNinja"
       - icon : tf-ion-social-linkedin
         url : "#"
