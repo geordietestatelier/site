@@ -10,7 +10,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/stephenmounsey"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/stephen-mounsey-67502223/"
       
   - image : images/crew/Rosie.png
     name : Rosie Hamilton
@@ -20,7 +20,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/Rosicadia"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/rosie-hamilton-493b02137/"
       
   - image : images/crew/Mike.png
     name : Michael Allison
@@ -30,7 +30,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/QA_Michael_A"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/michael-allison-36799a113/"
       
   - image : images/crew/Russell.png
     name : Russell Craxford
@@ -40,7 +40,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/r_crax"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/russell-craxford/"
 
   - image : images/crew/Hannah.png
     name : Hannah Pretswell
@@ -50,7 +50,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/HannahPretswell"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/hannahpretswell/"
 
   - image : images/crew/Cian.png
     name : Cian McCormack
@@ -60,4 +60,4 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/aCyanNinja"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "https://www.linkedin.com/in/cian-mccormack-35908a74/"
