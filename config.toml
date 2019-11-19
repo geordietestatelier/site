@@ -39,7 +39,7 @@ logo = "images/logo.png"
     content= "Newcastle's first, last and only diverse, accessible, DIY, punk, eco-friendly, inclusive, non-profit Software Testing conference"
     btn = true
     btnText="I NEED A Ticket"
-    btnURL="https://ti.to/geordie-test-atelier/gta-feb-2019/admin/releases/e-trddg2y8"
+    btnURL="https://ti.to/geordie-test-atelier/gta-feb-2019/with/e-trddg2y8"
 
     # call to action
     [params.cta]
