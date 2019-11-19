@@ -36,10 +36,10 @@ logo = "images/logo.png"
     enable = true
     bgImage = "images/computer.jpg"
     heading = "Geordie Test Atelier"
-    content= "Newcastle's first, last and only diverse, accessible, DIY, punk, eco-friendly, inclusive, non-profit Software Testing conference"
+    content= "February 27th, 2020. Newcastle's first, last and only diverse, accessible, DIY, punk, eco-friendly, inclusive, non-profit Software Testing conference."
     btn = true
     btnText="I NEED A Ticket"
-    btnURL="https://ti.to/geordie-test-atelier/gta-feb-2019/with/e-trddg2y8"
+    btnURL="https://ti.to/geordie-test-atelier/gta-feb-2019"
 
     # call to action
     [params.cta]
