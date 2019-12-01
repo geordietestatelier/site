@@ -59,14 +59,14 @@ logo = "images/logo.png"
         count = "1"
 
         [[params.counter.counterItem]]
-        title = "Tickets Available"
+        title = "Tickets left"
         icon = "tf-ion-card"
-        count = "80"
+        count = "2"
 
         [[params.counter.counterItem]]
         title = "Amazing Speakers"
         icon = "tf-ion-happy"
-        count = "12"
+        count = "8"
 
         [[params.counter.counterItem]]
         title = "Bugs Squished"
