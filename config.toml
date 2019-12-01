@@ -1,4 +1,4 @@
-baseURL = "https://sleepy-wilson-e5c9f4.netlify.com/"
+baseURL = "https://geordietestatelier.netlify.com/"
 languageCode = "en-us"
 title = "Geordie Test Atelier"
 theme = "meghna"
@@ -36,10 +36,10 @@ logo = "images/logo.png"
     enable = true
     bgImage = "images/computer.jpg"
     heading = "Geordie Test Atelier"
-    content= "Newcastle's first, last and only diverse, accessible, DIY, punk, eco-friendly, inclusive, non-profit Software Testing conference"
+    content= "February 27th, 2020. Newcastle's first, last and only inclusive, accessible, punk/anarchistic-inspired not-for-profit Software Testing conference. Run by testers, for everyone."
     btn = true
     btnText="I NEED A Ticket"
-    btnURL="#services"
+    btnURL="https://ti.to/geordie-test-atelier/gta-feb-2019"
 
     # call to action
     [params.cta]
