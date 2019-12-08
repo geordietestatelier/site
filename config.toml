@@ -61,7 +61,7 @@ logo = "images/logo.png"
         [[params.counter.counterItem]]
         title = "Tickets left"
         icon = "tf-ion-card"
-        count = "2"
+        count = "0"
 
         [[params.counter.counterItem]]
         title = "Amazing Speakers"
